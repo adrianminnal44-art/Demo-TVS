@@ -1,0 +1,1 @@
+Torque = 40 Nm @ 7000 RPM
